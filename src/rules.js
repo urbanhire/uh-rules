@@ -10,7 +10,7 @@ const COMPANY_PLAN_TRIAL = 'trial'
 const COMPANY_PLAN_FREE = 'free'
 const COMPANY_PLAN_STARTER = 'starter'
 const COMPANY_PLAN_STANDARD = 'standard'
-const COMPANY_PLAN_PROFESSIONAL = 'profesional'
+const COMPANY_PLAN_PROFESSIONAL = 'professional'
 const COMPANY_PLAN_ENTERPRISE = 'enterprise'
 
 module.exports = {
